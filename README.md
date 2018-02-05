@@ -15,4 +15,6 @@ We are going to learn how to print things in the console when our program runs. 
 
 Bonus
 Use comments to describe what you're doing. Comment lines start with "#":
-`#I am a comment, I won't get run by Python.`
+```
+#I am a comment, I won't get run by Python.
+```
